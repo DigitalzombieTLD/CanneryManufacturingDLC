@@ -80,7 +80,7 @@ namespace CanneryManufacturingDLC
 				}
 			}
 
-			private static GearItem GetGearItemPrefab(string name) => Resources.Load(name).Cast<GameObject>().GetComponent<GearItem>();
+			private static GearItem GetGearItemPrefab(string name) => GearItem.LoadGearItemPrefab(name).GetComponent<GearItem>();
 		}
 
 
