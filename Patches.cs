@@ -74,7 +74,31 @@ namespace CanneryManufacturingDLC
 				{
 					__instance.ForceWornOut();
 				}
+				else if (Settings.options.revolversStartRuined && Utils.NormalizeName(__instance.name) == "GEAR_RevolverFancy")
+				{
+					__instance.ForceWornOut();
+				}
+				else if (Settings.options.revolversStartRuined && Utils.NormalizeName(__instance.name) == "GEAR_RevolverGreen")
+				{
+					__instance.ForceWornOut();
+				}
+				else if (Settings.options.revolversStartRuined && Utils.NormalizeName(__instance.name) == "GEAR_RevolverStubNosed")
+				{
+					__instance.ForceWornOut();
+				}
 				else if (Settings.options.riflesStartRuined && Utils.NormalizeName(__instance.name) == "GEAR_Rifle")
+				{
+					__instance.ForceWornOut();
+				}
+				else if (Settings.options.riflesStartRuined && Utils.NormalizeName(__instance.name) == "GEAR_Rifle_Vaughns")
+				{
+					__instance.ForceWornOut();
+				}
+				else if (Settings.options.riflesStartRuined && Utils.NormalizeName(__instance.name) == "GEAR_Rifle_Barbs")
+				{
+					__instance.ForceWornOut();
+				}
+				else if (Settings.options.riflesStartRuined && Utils.NormalizeName(__instance.name) == "GEAR_Rifle_Curators")
 				{
 					__instance.ForceWornOut();
 				}
