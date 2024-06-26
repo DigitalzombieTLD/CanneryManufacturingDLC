@@ -1,0 +1,17 @@
+{
+    "Name": "HatchetConversion",
+    "RequiredGear":[{"Item":"GEAR_HatchetImprovised","Count":1},{"Item":"GEAR_ScrapMetal","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Hatchet",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 60,
+    "CraftingAudio": "PLAY_CRAFTINGGENERIC",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

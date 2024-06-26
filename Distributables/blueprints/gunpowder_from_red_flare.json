@@ -1,0 +1,17 @@
+{
+    "Name": "GunpowderFromRedFlare",
+    "RequiredGear":[{"Item":"GEAR_FlareA","Count":3}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_GunpowderCan",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 90,
+    "CraftingAudio": "Play_CraftingGunPowder",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

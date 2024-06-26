@@ -1,0 +1,17 @@
+{
+    "Name": "FlareAmmoFromGunPowder",
+    "RequiredGear":[{"Item":"GEAR_ScrapMetal","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0.30,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_FlareGunAmmoSingle",
+    "CraftedResultCount": 4,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_CraftingGunPowder",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

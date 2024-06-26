@@ -1,0 +1,17 @@
+{
+    "Name": "EfficientArrowshafts",
+    "RequiredGear":[{"Item":"GEAR_BirchSaplingDried","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised","GEAR_Hatchet","GEAR_HatchetImprovised"],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ArrowShaft",
+    "CraftedResultCount": 4,
+    "DurationMinutes": 60,
+    "CraftingAudio": "PLAY_CRAFTINGGENERIC",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
