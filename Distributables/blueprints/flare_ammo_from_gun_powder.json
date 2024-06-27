@@ -1,6 +1,6 @@
 {
     "Name": "FlareAmmoFromGunPowder",
-    "RequiredGear":[{"Item":"GEAR_ScrapMetal","Count":1}],
+    "RequiredGear":[{"Item":"GEAR_SmallGunpowderCan","Count":1}],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0.30,
     "RequiredTool": "",

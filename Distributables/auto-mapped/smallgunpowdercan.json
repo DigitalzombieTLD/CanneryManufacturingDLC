@@ -21,7 +21,7 @@
                                 "InspectModel" : "",
 
                                 "PowderType" : "Gunpowder",
-                                "CapacityKG" : 0.2,
-                                "ChanceFull" : 20
+                                "CapacityKG" : 0.25,
+                                "ChanceFull" : 100
                             }
 }
