@@ -1,0 +1,7 @@
+{
+    "Name" : "Cannery Manufacturing",
+    "Version" : "1.6.0",
+    "Author" : "Digitalzombie & Atlas-Lumi",
+	"Requires":[""],
+    "RequiresDLC": false
+}
